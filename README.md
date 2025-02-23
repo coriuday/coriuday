@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @coriuday
 - 👀 I’m interested in computers and build new things
 - 🌱 I’m currently learning COMPUTER SCIENCE ENGGINEERING
-- 💞️ I’m looking to collaborate on learning togather about computers and AI machine learning and Gaming
+- 💞️ I’m looking to collaborate on learning together about computers and AI machine learning and Gaming
 - 📫 How to reach me ... instagram id: @coriuday
 
 <!---
