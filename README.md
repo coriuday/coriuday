@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/coriuday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="coriuday" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/uday kumar kori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uday kumar kori" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/uday-kumar-kori-784678210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uday kumar kori" height="30" width="40" /></a>
 <a href="https://fb.com/cori uday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cori uday" height="30" width="40" /></a>
 <a href="https://instagram.com/coriuday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coriuday" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/coriuday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coriuday" height="30" width="40" /></a>
