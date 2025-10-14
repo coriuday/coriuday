@@ -15,11 +15,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/coriuday](https://github.com/coriuday)
 
-- 💬 Ask me about **WEB-Dev**
+- 💬 Ask me about **WEB-Dev,Full Stack Development**
 
 - 📫 How to reach me **coriuday.18@gmail.com**
 
-- ⚡ Fun fact **While most developers pick either AI or Web Development, you’re ambitiously mastering both—building neural network models and crafting full-stack apps with pixel-perfect UIs. You’re basically running a one-man tech startup with OM as your co-pilot(My best AI-ChatBot). 😎🚀**
+- ⚡ Fun fact **While most developers pick either AI or Web Development, I am ambitiously mastering both—building neural network models and crafting full-stack apps with pixel-perfect UIs.I am basically running a one-man tech startup with OM as your co-pilot(My best AI-ChatBot). 😎🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
