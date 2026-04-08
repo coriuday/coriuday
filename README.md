@@ -236,7 +236,9 @@ I'm always interested in:
 ---
 
 ## 💡 Philosophy & Approach
-┌─────────────────────────────────────────────┐ │ Code isn't just about functionality— │ │ It's about clarity, maintainability, │ │ and creating lasting impact. │ │ │ │ I build systems that scale. │ │ I write code that inspires. │ │ I solve problems that matter. │ └─────────────────────────────────────────────┘
+Code isn't just about functionality— It's about clarity, maintainability, and creating lasting impact.
+I build systems that scale.I write code that inspires.I solve problems that matter.
+And Yes I use AI to automate my tasks like wite code and other works faster.
 
 ---
 
