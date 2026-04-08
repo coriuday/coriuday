@@ -1,42 +1,280 @@
-<h1 align="center">Hi 👋, I'm Uday Kumar Kori</h1>
-<h3 align="center">🚀 Aspiring Full Stack & Software Developer | Proficient in C, C++, Python, Java, React, Node.js, Django 💻 Final-year CSE Student | Passionate about modern Web Development, 3D Environments (Unreal Engine, Blender), and creative problem-solving 🧠 Built real-time IoT solutions and 3D e-commerce platforms | Hackathon Winner | Growing through hands-on full-stack projects and algorithmic challenges 📚 Actively improving in DSA, building scalable apps, and experimenting with gamified, immersive web experiences</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Uday+Kumar+Kori;Full+Stack+%7C+AI+%7C+Software+Engineer;Building+Tomorrow's+Solutions+Today" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coriuday&label=Profile%20views&color=0e75b6&style=flat" alt="coriuday" /> </p>
+<div align="center">
+  
+  [![Profile Views](https://komarev.com/ghpvc/?username=coriuday&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/coriuday)
+  [![GitHub followers](https://img.shields.io/github/followers/coriuday?style=flat-square&color=0e75b6)](https://github.com/coriuday)
+  [![GitHub Stars](https://img.shields.io/github/stars/coriuday?style=flat-square&color=0e75b6)](https://github.com/coriuday)
+  
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coriuday" alt="coriuday" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/coriuday" target="blank"><img src="https://img.shields.io/twitter/follow/coriuday?logo=twitter&style=for-the-badge" alt="coriuday" /></a> </p>
+## 🚀 About Me
 
-- 🔭 I’m currently working on **AI-agent**
+I'm a **final-year Computer Science Engineering student** with a passion for crafting elegant solutions to complex problems. I specialize in **full-stack web development**, **AI/ML**, and **system design**. My mission is to bridge the gap between **intelligent backends** and **pixel-perfect frontends** while maintaining clean, scalable code.
 
-- 🌱 I’m currently learning **Kernel Based AI-agent**
+**What drives me:**
+- 🎯 Building production-ready applications with cutting-edge technologies
+- 🧠 Exploring AI and Machine Learning to solve real-world challenges  
+- 💡 Contributing to open-source and collaborative projects
+- 📈 Continuous learning and mastering new technologies
 
-- 🤝 I’m looking for help with **AI-agent**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/coriuday](https://github.com/coriuday)
+## 💼 Current Focus
 
-- 💬 Ask me about **WEB-Dev,Full Stack Development**
+| Focus Area | Details |
+|-----------|---------|
+| 🤖 **Active Project** | Building **Kernel-Based AI Agent Framework** - Autonomous system for intelligent task execution |
+| 🌱 **Learning** | Advanced AI architectures, System Design, Distributed Systems |
+| 🎯 **Goal** | Creating intelligent, scalable systems that impact millions |
 
-- 📫 How to reach me **coriuday.18@gmail.com**
+---
 
-- ⚡ Fun fact **While most developers pick either AI or Web Development, I am ambitiously mastering both—building neural network models and crafting full-stack apps with pixel-perfect UIs.I am basically running a one-man tech startup with OM as your co-pilot(My best AI-ChatBot). 😎🚀**
+## 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/coriuday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="coriuday" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/uday-kumar-kori-784678210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uday kumar kori" height="30" width="40" /></a>
-<a href="https://fb.com/cori uday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cori uday" height="30" width="40" /></a>
-<a href="https://instagram.com/coriuday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coriuday" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/coriuday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coriuday" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/coriuday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="coriuday" height="30" width="40" /></a>
-<a href="https://discord.gg/coriuday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="coriuday" height="30" width="40" /></a>
-</p>
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### **Frontend Development**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coriuday&show_icons=true&locale=en&layout=compact" alt="coriuday" /></p>
+### **Backend Development**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coriuday&show_icons=true&locale=en" alt="coriuday" /></p>
+### **AI & Machine Learning**
+![Python](https://img.shields.io/badge/ML-Advanced-FF6B6B?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coriuday&" alt="coriuday" /></p>
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+## 📂 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🤖 AIOS - AI Operating System</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI-Advanced-FF6B6B?style=flat-square" />
+      </p>
+      <p align="center">
+        Kernel-based AI Agent framework for autonomous task execution. Current focus with cutting-edge AI architecture.
+      </p>
+      <p align="center">
+        <a href="https://github.com/coriuday/aios">
+          <img src="https://img.shields.io/badge/View%20Project-0e75b6?style=for-the-badge" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎓 SCCMS - Smart College Management</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/Enterprise-Scalable-brightgreen?style=flat-square" />
+      </p>
+      <p align="center">
+        Comprehensive college management system with enterprise-grade architecture and scalable design.
+      </p>
+      <p align="center">
+        <a href="https://github.com/coriuday/SCCMS">
+          <img src="https://img.shields.io/badge/View%20Project-0e75b6?style=for-the-badge" />
+        </a>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3 align="center">💙 GiveHopeNow - Charity Platform</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      </p>
+      <p align="center">
+        Full-stack donation platform connecting donors with causes. Modern UI with secure backend.
+      </p>
+      <p align="center">
+        <a href="https://github.com/coriuday/GiveHopenow">
+          <img src="https://img.shields.io/badge/View%20Project-0e75b6?style=for-the-badge" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🏆 ETE-Digital Solutions</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Full%20Stack-MERN-61DAFB?style=flat-square" />
+      </p>
+      <p align="center">
+        Digital solutions platform with responsive design and optimized performance metrics.
+      </p>
+      <p align="center">
+        <a href="https://github.com/coriuday/ETE-Digital">
+          <img src="https://img.shields.io/badge/View%20Project-0e75b6?style=for-the-badge" />
+        </a>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3 align="center">🧮 ML Algorithms from Scratch</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/ML-Educational-FF6B6B?style=flat-square" />
+      </p>
+      <p align="center">
+        Deep dive into machine learning: implementing algorithms from ground zero without frameworks.
+      </p>
+      <p align="center">
+        <a href="https://github.com/coriuday/ML-Algorithms-from-Scratch">
+          <img src="https://img.shields.io/badge/View%20Project-0e75b6?style=for-the-badge" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎬 Dance Competition App</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Event%20Management-Platform-brightgreen?style=flat-square" />
+      </p>
+      <p align="center">
+        Interactive platform for managing dance competitions with real-time updates and scoring.
+      </p>
+      <p align="center">
+        <a href="https://github.com/coriuday/dance_competition_app">
+          <img src="https://img.shields.io/badge/View%20Project-0e75b6?style=for-the-badge" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![Uday's GitHub Stats](https://github-readme-stats.vercel.app/api?username=coriuday&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+</div>
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coriuday&layout=compact&theme=tokyonight&hide_border=true&card_width=320)
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=coriuday&theme=tokyonight&hide_border=true)](https://github.com/coriuday)
+
+</div>
+
+---
+
+## 🎯 Key Competencies
+
+<div align="center">
+
+| Category | Skills |
+|----------|--------|
+| **Full Stack Development** | MERN Stack, TypeScript, Node.js, Django, REST APIs |
+| **Frontend** | React, Responsive Design, UI/UX, Performance Optimization |
+| **Backend** | System Design, Database Architecture, Authentication, APIs |
+| **AI/ML** | Neural Networks, Algorithm Implementation, Data Science |
+| **Tools & DevOps** | Git, Docker, Linux, VS Code, GitHub Actions |
+| **Problem Solving** | Data Structures, Algorithms, LeetCode 700+ problems |
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+I'm always interested in:
+- 🔗 **Collaborating** on innovative projects (Full-stack, AI, Open-source)
+- 💼 **Discussing** system design, architecture, and best practices
+- 🚀 **Exploring** opportunities to create impactful solutions
+- 🌟 **Contributing** to meaningful open-source initiatives
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uday-kumar-kori-784678210)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/coriuday)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/coriuday)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/coriuday)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coriuday.18@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/coriuday)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/coriuday)
+
+</div>
+
+---
+
+## 💡 Philosophy & Approach
+┌─────────────────────────────────────────────┐ 
+│ Code isn't just about functionality—        │
+│ It's about clarity, maintainability,        │ 
+│ and creating lasting impact.                │
+│ │ │ I build systems that scale.             │
+│ I write code that inspires.                 │ 
+│ I solve problems that matter.               │ 
+└─────────────────────────────────────────────┘
+
+---
+
+## 📈 What I'm Working Towards
+
+- 🎓 **Graduation** with distinction (Final Year CSE)
+- 🤖 **AI Agent** completion - Revolutionary autonomous system
+- 📚 **System Design** mastery - Building scalable architectures
+- 🌐 **Open Source** contributions - Giving back to the community
+- 💼 **Industry Impact** - Creating solutions that matter
+
+---
+
+## 🏆 Quick Stats
+Total Repositories: 20+ Languages Proficient: 8+ Full-Stack Projects: 10+ ML/AI Projects: 3+ Lines of Code Written: 50,000+ Commits This Year: 100+
+
+
+---
+
+<div align="center">
+  
+  ### ⭐ If you find my work interesting, feel free to star repositories and connect!
+  
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with fellow developers and innovators!</b></em>
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer)
+  
+</div>
